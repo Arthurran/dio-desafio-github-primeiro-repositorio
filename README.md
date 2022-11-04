@@ -2,4 +2,4 @@
 Primeiro Desafio de projeto dio - Git/GitHub
 
 ## Links Úteis
-[Sintaxe Basica .md(markdown)]~(https://www.markdownguide.org/basic-syntax/)
+[Sintaxe Basica MarkDown](https://www.markdownguide.org/basic-syntax/)
