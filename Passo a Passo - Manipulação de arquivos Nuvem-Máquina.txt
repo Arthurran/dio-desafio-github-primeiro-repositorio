@@ -21,4 +21,4 @@ How to do it:
 3- Enviar alterações da máquina para o GitHub(Nuvem):
 	1° Enviar os arquivos para a nuvem com o código: "git push origin main"
 
-Processo de clone/alteração/enviou de arquivos máquina-nuvem.
+Processo de clone/alteração/envio de arquivos máquina-nuvem.
